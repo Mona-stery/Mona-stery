@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maximilian Aitcheson</h1>
-<h3 align="center">I am really intested in programming!</h3>
+<h3 align="center">I am really interested in programming!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mona-stery&label=Profile%20views&color=0e75b6&style=flat" alt="mona-stery" /> </p>
 
